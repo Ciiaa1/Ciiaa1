@@ -1,6 +1,6 @@
 💻 -  Actualmente estoy aprendiendo todo lo que puedo. :)
 🎾 -  Programo y juego videojuegos en mi tiempo libre, a parte juego al tenis.
-🌵 -  Dato curioso: Vitro-Dev es mi mentor. <br />
+🌵 -  Dato curioso: Vitro-Dev es mi mentor. <br/>
 
 ### Languages and Tools:
 
