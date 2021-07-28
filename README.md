@@ -1,8 +1,9 @@
 <Quick Introduction>
-```Ey! I'm Ciiaa1, an 16 y/o programmer and student.´´´
 
-
-
+ ```js
+  <Quick Introduction>
+Ey! I'm vitro, an 16 y/o programmer and student.
+´´´
 
 💻- Actualmente estoy aprendiendo todo lo que puedo. :) <br/>
 🎾- Programo y juego videojuegos en mi tiempo libre, a parte juego al tenis".<br/>
