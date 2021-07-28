@@ -1,7 +1,7 @@
 
--  Actualmente estoy aprendiendo todo lo que puedo. :)
--  Programo y juego videojuegos en mi tiempo libre, a parte de realizar más de 1 deporte.
--  Dato curioso: Programé un bot de discord y discord me verifico, al mes perdi mi cuenta. <br />
+💻-  Actualmente estoy aprendiendo todo lo que puedo. :)
+🎾-  Programo y juego videojuegos en mi tiempo libre, a parte juego al tenis.
+🌵-  Dato curioso: Vitro-Dev es mi mentor <br />
 
 ### Languages and Tools:
 
