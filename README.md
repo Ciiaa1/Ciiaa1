@@ -15,5 +15,5 @@
 
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vitro-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitro-dev&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ciiaa1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciiaa1&layout=compact&theme=radical)
