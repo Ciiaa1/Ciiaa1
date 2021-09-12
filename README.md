@@ -7,7 +7,7 @@ Ey! I'm Ciiaa1 "Alvaro", programmer and student.
 
 
 💻- Actualmente estoy aprendiendo todo lo que puedo. :) <br/>
-🎾- Programo y juego videojuegos en mi tiempo libre.".<br/>
+🎾- Programo y poco mas jajaja.".<br/>
 🌵- Dato curioso: <a href="https://github.com/vitro-dev">Vitro-Dev</a> es mi mentor. <br/>
 
 ### Languages and Tools:
