@@ -2,13 +2,11 @@
 
 ```js
 <Quick Introduction>
-Ey! I'm Ciiaa1 "Alvaro", programmer and student.
+Ey! I'm "Alvaro", programmer and student.
 ```
 
 
-💻- Actualmente estoy aprendiendo todo lo que puedo. :) <br/>
-🎾- Programo y poco mas jajaja.".<br/>
-🌵- Dato curioso: <a href="https://github.com/vitro-dev">Vitro-Dev</a> es mi mentor. <br/>
+💻- I Develope Software and im focused on AI and Software from Robots <br/>
 
 ### Languages and Tools:
 
